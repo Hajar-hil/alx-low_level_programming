@@ -1,3 +1,7 @@
+/*
+ * File: 1-init_dog.c
+ * Author: Hajar Hilali
+ */
 #include "dog.h"
 #include <stdlib.h>
 
